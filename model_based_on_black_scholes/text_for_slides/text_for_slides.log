@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.7)  12 MAY 2020 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.7)  12 MAY 2020 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.tex"
-(/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.tex
+**"/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex"
+(/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -978,27 +978,27 @@ File: tikzlibraryshadows.code.tex 2019/04/04 v3.1.2 (3.1.2)
 File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
 \pgfbs@fading@count=\count317
-) (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.aux)
+) (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux)
 \openout1 = `text_for_slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
  ABD: EveryShipout initializing macros (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count318
@@ -1105,19 +1105,19 @@ Dictionary: translator-basic-dictionary, Language: English
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-LaTeX Info: Redefining \celsius on input line 38.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 38.
+LaTeX Info: Redefining \celsius on input line 39.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 39.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 38.
-Package gensymb Info: Using \Omega for \ohm on input line 38.
+LaTeX Info: Redefining \ohm on input line 39.
+Package gensymb Info: Using \Omega for \ohm on input line 39.
 
 Package gensymb Warning: Not defining \micro.
 
 \AtBeginShipoutBox=\box70
-Package hyperref Info: Link coloring OFF on input line 38.
+Package hyperref Info: Link coloring OFF on input line 39.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1125,99 +1125,122 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count324
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
- (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out) (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out)
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+ (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out) (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out)
 \@outlinefile=\write4
 \openout4 = `text_for_slides.out'.
 
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMX+yhex on input line 38.
+LaTeX Font Info:    Try loading font information for OMX+yhex on input line 39.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/yhmath/OMXyhex.fd
 File: OMXyhex.fd 
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
-LaTeX Font Info:    Try loading font information for PD1+cmr on input line 38.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 38.
+LaTeX Font Info:    Try loading font information for PD1+cmr on input line 39.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 39.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/n' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 38.
+(Font)              using `PD1/pdf/m/n' instead on input line 39.
 
-LaTeX Font Info:    Try loading font information for PU+cmr on input line 38.
-LaTeX Font Info:    No file PUcmr.fd. on input line 38.
+LaTeX Font Info:    Try loading font information for PU+cmr on input line 39.
+LaTeX Font Info:    No file PUcmr.fd. on input line 39.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 38.
+(Font)              using `PU/pdf/m/n' instead on input line 39.
 
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 39.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )<<ot1tt.cmap>> [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 76.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 83.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 84.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Overfull \hbox (79.63005pt too wide) detected at line 105
+Overfull \hbox (79.63005pt too wide) detected at line 106
 \OML/cmm/m/it/10 w\PU/cmr/m/n/10 (\OML/cmm/m/it/10 x; t\PU/cmr/m/n/10 ) = \OML/cmm/m/it/10 e[]y []
  []
 
 [3] [4]
-Overfull \hbox (3.44492pt too wide) in paragraph at lines 147--148
+Overfull \hbox (3.44492pt too wide) in paragraph at lines 148--149
  []\T2A/cmr/bx/n/10 3. $[]$\T2A/cmr/m/n/10 : ¬ лю-бой мо-мент вре-ме-ни у участ-
  []
 
 
-Overfull \hbox (5.25113pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.25113pt too wide) in paragraph at lines 149--150
  []\T2A/cmr/bx/n/10 4. $[]$\T2A/cmr/m/n/10 : ѕри осу-ществ-ле-нии по-куп-ки или
  []
 
-[5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
- (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+[5]
+Overfull \hbox (0.89108pt too wide) in paragraph at lines 178--179
+\T2A/cmr/m/n/10 Ќами бы-ла про-де-ла-на ра-бо-та об-ра-бот-ки дан-ных с сай-та: https://ycharts.com,
+ []
+
+<pictures/options_info.png, id=91, 1161.33875pt x 266.9975pt>
+File: pictures/options_info.png Graphic file (type png)
+<use pictures/options_info.png>
+Package pdftex.def Info: pictures/options_info.png  used on input line 182.
+(pdftex.def)             Requested size: 348.40431pt x 80.09985pt.
+
+Overfull \hbox (3.40431pt too wide) in paragraph at lines 182--183
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.10968pt too wide) in paragraph at lines 191--192
+ []\T2A/cmr/bx/n/10 1. \T2A/cmr/m/n/10 https://bcs-express.ru/novosti-i-analitika/kak-ustroeny-optsiony-i-chto-oni-
+ []
+
+[6] [7 </Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/pictures/options_info.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+ (/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
 Package rerunfilecheck Info: File `text_for_slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
  ) 
 Here is how much of TeX's memory you used:
- 33747 strings out of 492616
- 641388 string characters out of 6129482
- 654808 words of memory out of 5000000
- 37125 multiletter control sequences out of 15000+600000
+ 33763 strings out of 492616
+ 642303 string characters out of 6129482
+ 654977 words of memory out of 5000000
+ 37131 multiletter control sequences out of 15000+600000
  553275 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,68p,1250b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,68p,1302b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/yhmath/yhcmex.pfb>
-Output written on "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.pdf" (6 pages, 206253 bytes).
+Output written on "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf" (7 pages, 317238 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

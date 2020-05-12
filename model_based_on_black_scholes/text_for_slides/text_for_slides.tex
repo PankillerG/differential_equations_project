@@ -29,7 +29,8 @@
 \usetikzlibrary{fadings}
 \usetikzlibrary{patterns}
 \usetikzlibrary{shadows.blur}
-
+\usepackage{graphicx}
+\graphicspath{{pictures/}}
 
 \title{Текст к слайдам}
 \author{Гусев Владислав БПМИ187}
@@ -173,9 +174,27 @@ $I$ -- критическая цена акции до выплаты дивид
 
 Тогда цена данного опциона равна цене эквивалентного европейского опциона. Если в течение срока действия опциона существует несколько ожидаемых дивидендов, то в большинстве случаев оптимальным является только раннее исполнение в последнюю дату. Таким образом, в качестве приближения можно использовать формулу Ролла, Geske и Уэйли, рассматривая все дивиденды, кроме финального для снижения цены спот-актива.
 \section*{!9}
-\section*{!10}
-\section*{!11}
-\section*{!12}
+\section*{!10: Обзор на реальных данных:}
+Нами была проделана работа обработки данных с сайта: https://ycharts.com, в ходе которой мы смогли взять реальные данные на торгующиеся инструменты, а также получить информацию о влиянии дивидендов на опционы.
+
+После чего мы смогли аккумулировать полученные данные и составить следующую таблицу: (описать словами)
+\begin{figure}[h]
+    \center{\includegraphics[scale = 0.3]{options_info.png}}
+    \caption{Информация об изменениях стоимости опционов в зависимости от дивидендов}
+    \label{fig:image}
+\end{figure}
+
+\section*{!11: Итоги, выводы:}
+\section*{12: Спасибо за внимание так сказать}
+\section*{!13: Источники:}
+\paragraph*{1.}
+https://bcs-express.ru/novosti-i-analitika/kak-ustroeny-optsiony-i-chto-oni-iz-sebia-predstavliaiut
+\paragraph*{2.}
+https://allfi.biz/model-bljeka-shoulza/
+\paragraph*{3.}
+$http://www.sfu.ca/~kkasa/BlackScholes_73.pdf$
+\paragraph*{4.}
+https://ycharts.com
 
 
 

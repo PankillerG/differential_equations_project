@@ -1,9 +1,9 @@
-PWD /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides
+PWD /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.tex
-OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.log
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex
+OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.log
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
@@ -21,7 +21,7 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /Users/pankillerg/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cmap/t2a.cmap
-OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.pdf
+OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cmap/t2a.cmap
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
@@ -249,9 +249,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.aux
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.aux
-OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.aux
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux
+OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux
 INPUT /usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -270,13 +270,13 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+OUTPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/mmap/oml.cmap
@@ -367,9 +367,12 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/yhmath/yrcmex10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/public/yhmath/yhcmex10.vf
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/yhmath/yrcmex10.tfm
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.aux
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
-INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/project/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/pictures/options_info.png
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/pictures/options_info.png
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/pictures/options_info.png
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
+INPUT /Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.out
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
