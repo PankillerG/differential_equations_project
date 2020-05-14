@@ -226,6 +226,27 @@ $s*$ -- цена, для которой выполнено следующее о
 \[q_2 = \dfrac{ - \left(\dfrac{2 (r - q)}{\sigma^2 - 1 }\right) - \sqrt{ \left(\dfrac{2 (r - q)}{\sigma^2 - 1 }\right)^2 + \dfrac{8r}{\sigma^2 (1 - e^{-r (T-t)})}}}{2}\]
 $s^{**}$ -- цена, для которой выполнено следующее ограничение:
 \[S^{**} - X = V_{put}(S^{**}, X, T) - \dfrac{1 - e^{-q(T - t)} N(d_1(S^{**})) S^{**}}{q_2}\]
+
+\paragraph*{Approximation of Bjerksundand Stensland}
+Bjerksund и Stensland обеспечивают приближение, основанное на стратегии экспирации, соответствующей триггерной цене. Здесь, если цена базового актива больше или равна цене определенного триггера, его оптимально экпирировать, значение должно быть равно S - X, в противном случае опцион «сводится к: (i) европейскому call-and-out коллу» опциоу и (ii) скидка, полученная на дату knock-out, если опцион knocked out до даты погашения ». Формула легко модифицируется для оценки опциона пут, используя паритет пут-колл. Это приближение является недорогим в вычислительном отношении, и метод является быстрым, и есть свидетельства того, что это приближение может быть более точным при оценке вариантов с длинными датами, чем Barone-Adesi и Whaley.
+
+Данное приближение может быть записано так: \\ 
+$V_{call} = \alpha S^{\beta} - \alpha \Phi (S, T - t, \beta, I, I) + \Phi (S, T - t, 1, I, I) - \Phi (S, T - t, 1, X, I) - X \Phi (S, T - t, 0, I, I) + X \Phi (S, T - t, 0, X, I)$
+где
+\[\alpha = (I - X) I^{-\beta}\]
+\[\beta = \left( \dfrac{1}{2} - \dfrac{b}{\sigma^2} \right) + \sqrt{ \left(  \dfrac{b}{\sigma^2} - \dfrac{1}{2}\right)^2 + 2 \dfrac{r}{\sigma^2}}\]
+\[b = r - q\]
+А функция $\Phi$ выражается так:
+\[\Phi (S, T, \gamma, H, I) = e^{\lambda} S^{\gamma} \left( N(d) - \left( \dfrac{I}{S} \right)^k N \left( d - \dfrac{2 ln(I/S)}{\sigma \sqrt{T}} \right) \right)\]
+\[\lambda = \left( -r + \gamma b + \dfrac{1}{2} \gamma (\gamma - 1) \sigma^2 \right) T\]
+\[d = - \dfrac{ln(S/H) + (b + (\gamma - \frac{1}{2}) \sigma^2) T}{\sigma \sqrt{T}}\]
+\[k = \dfrac{2b}{\sigma^2} + (2 \gamma - 1)\]
+\[I = B_0 + (B_{\infty} - B_0) \left( 1 - e^{h(T)}\right)\]
+\[h(T) = -(bT + 2 \sigma \sqrt{T}) \left( \dfrac{B_0}{B_{\infty - B_0}}\right)\]
+\[B_{\infty} = \dfrac{\beta}{\beta - 1} X\]
+\[B_0 = max \left(X, \dfrac{r}{q} X \right)\]
+Формула опциона PUT может быть записана через фморулу паритета таким образом:
+\[V_{put} (S, X, T, r, q, \sigma)= V_{call} (S, X, T, q, q - r, \sigma)\]
 \section*{!10 Слайд: Обзор на реальных данных:}
 Нами была проделана работа обработки данных с сайта: https://ycharts.com, в ходе которой мы смогли взять реальные данные на торгующиеся инструменты, а также получить информацию о влиянии дивидендов на опционы.
 
