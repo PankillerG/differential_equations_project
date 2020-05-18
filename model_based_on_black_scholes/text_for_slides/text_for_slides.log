@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.7)  18 MAY 2020 21:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.7)  19 MAY 2020 00:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1191,12 +1191,18 @@ Overfull \hbox (5.25113pt too wide) in paragraph at lines 137--138
  []\T2A/cmr/bx/n/10 4. $[]$\T2A/cmr/m/n/10 : ѕри осу-ществ-ле-нии по-куп-ки или
  []
 
-[4] [5] [6] [7] [8]
+[4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+ []
+
+[7] [8]
 Overfull \hbox (0.89108pt too wide) in paragraph at lines 268--269
 \T2A/cmr/m/n/10 Ќами бы-ла про-де-ла-на ра-бо-та об-ра-бот-ки дан-ных с сай-та: https://ycharts.com,
  []
 
-<pictures/price_checker.png, id=109, 913.4125pt x 204.765pt>
+[9]
+<pictures/price_checker.png, id=114, 913.4125pt x 204.765pt>
 File: pictures/price_checker.png Graphic file (type png)
 <use pictures/price_checker.png>
 Package pdftex.def Info: pictures/price_checker.png  used on input line 272.
@@ -1206,7 +1212,7 @@ Overfull \hbox (20.35854pt too wide) in paragraph at lines 272--273
  [] 
  []
 
-[9]
+
 Overfull \hbox (2.10968pt too wide) in paragraph at lines 295--296
  []\T2A/cmr/bx/n/10 1. \T2A/cmr/m/n/10 https://bcs-express.ru/novosti-i-analitika/kak-ustroeny-optsiony-i-chto-oni-
  []
@@ -1228,13 +1234,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
 Here is how much of TeX's memory you used:
  33767 strings out of 492616
  642334 string characters out of 6129482
- 654978 words of memory out of 5000000
+ 655976 words of memory out of 5000000
  37131 multiletter control sequences out of 15000+600000
  553275 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,68p,1477b,773s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,68p,1825b,773s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/yhmath/yhcmex.pfb>
-Output written on "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf" (11 pages, 332570 bytes).
+Output written on "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf" (11 pages, 333367 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  144 compressed objects within 2 object streams
