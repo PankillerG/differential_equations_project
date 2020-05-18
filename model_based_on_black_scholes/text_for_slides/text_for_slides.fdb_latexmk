@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1589836111 "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex" "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf" "text_for_slides" 1589836886
+["pdflatex"] 1589836111 "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex" "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf" "text_for_slides" 1589837175
   "/Users/pankillerg/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1567855472 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/Users/pankillerg/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1567855466 3304 6a543c07045572737981351171e0505e ""
   "/Users/pankillerg/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1567855445 3220 0e417eaf233b160335902e97259a6c77 ""
@@ -7,8 +7,8 @@
   "/Users/pankillerg/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1567855461 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/Users/pankillerg/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1567855450 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.aux" 1589836113 1823 1d1259d12a4aa8f6c75a8cc6dc172a20 ""
-  "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex" 1589836885 35050 4f2236f064c304f3b8d916cfec97494f ""
-  "/dev/null" 1589836875 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.tex" 1589837174 35050 4f2236f064c304f3b8d916cfec97494f ""
+  "/dev/null" 1589837171 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1136849721 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1136768653 1536 b3387106d9afecbfe14bde2de6eadf47 ""
@@ -220,11 +220,11 @@
   "pictures/price_checker.png" 1589827145 156562 1625e7bc3c8600bdd2b495a1cb6f457f ""
   "text_for_slides.aux" 1589836113 1823 1d1259d12a4aa8f6c75a8cc6dc172a20 "pdflatex"
   "text_for_slides.out" 1589836112 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "text_for_slides.tex" 1589836885 35050 4f2236f064c304f3b8d916cfec97494f ""
+  "text_for_slides.tex" 1589837174 35050 4f2236f064c304f3b8d916cfec97494f ""
   (generated)
-  "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf"
-  "text_for_slides.aux"
-  "text_for_slides.pdf"
-  "text_for_slides.log"
-  "text_for_slides.out"
   "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.log"
+  "text_for_slides.pdf"
+  "text_for_slides.aux"
+  "text_for_slides.out"
+  "/Users/pankillerg/Yandex.Disk.localized/HSE/2 course/Differential_Equations/differential_equations_project/model_based_on_black_scholes/text_for_slides/text_for_slides.pdf"
+  "text_for_slides.log"
